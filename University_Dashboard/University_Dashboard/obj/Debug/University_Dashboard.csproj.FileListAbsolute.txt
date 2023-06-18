@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\test\University_Dashboard\University_Dashboard\bin\Debug\University_Dashboard.exe.config
+C:\Users\USER\Desktop\test\University_Dashboard\University_Dashboard\bin\Debug\University_Dashboard.exe
+C:\Users\USER\Desktop\test\University_Dashboard\University_Dashboard\bin\Debug\University_Dashboard.pdb
+C:\Users\USER\Desktop\test\University_Dashboard\University_Dashboard\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\test\University_Dashboard\University_Dashboard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\test\University_Dashboard\University_Dashboard\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\test\University_Dashboard\University_Dashboard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\test\University_Dashboard\University_Dashboard\obj\Debug\University_Dashboard.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\test\University_Dashboard\University_Dashboard\obj\Debug\University_Dashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\test\University_Dashboard\University_Dashboard\obj\Debug\University_Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\test\University_Dashboard\University_Dashboard\obj\Debug\University_Dashboard.csproj.CopyComplete
+C:\Users\USER\Desktop\test\University_Dashboard\University_Dashboard\obj\Debug\University_Dashboard.exe
+C:\Users\USER\Desktop\test\University_Dashboard\University_Dashboard\obj\Debug\University_Dashboard.pdb
