@@ -1,0 +1,76 @@
+C:\Users\nic92\Documents\Visual Studio 2015\Projects\YodaCoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe.config
+C:\Users\nic92\Documents\Visual Studio 2015\Projects\YodaCoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.exe
+C:\Users\nic92\Documents\Visual Studio 2015\Projects\YodaCoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.pdb
+C:\Users\traff\Source\Repos\Yoda-CoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe.config
+C:\Users\traff\Source\Repos\Yoda-CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.exe
+C:\Users\traff\Source\Repos\Yoda-CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.pdb
+C:\Users\traff\Source\Repos\Yoda-CoffeeShop\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\traff\Source\Repos\Yoda-CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.YodaCoffeeShop.resources
+C:\Users\traff\Source\Repos\Yoda-CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.Properties.Resources.resources
+C:\Users\traff\Source\Repos\Yoda-CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.TShirtForm.resources
+C:\Users\traff\Source\Repos\Yoda-CoffeeShop\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csproj.GenerateResource.Cache
+C:\Users\nic92\Documents\Visual Studio 2015\Projects\YodaCoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe
+C:\Users\nic92\Documents\Visual Studio 2015\Projects\YodaCoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.pdb
+C:\Users\nic92\Documents\Visual Studio 2015\Projects\YodaCoffeeShop\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\nic92\Documents\Visual Studio 2015\Projects\YodaCoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.YodaCoffeeShop.resources
+C:\Users\nic92\Documents\Visual Studio 2015\Projects\YodaCoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.Properties.Resources.resources
+C:\Users\nic92\Documents\Visual Studio 2015\Projects\YodaCoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.TShirtForm.resources
+C:\Users\nic92\Documents\Visual Studio 2015\Projects\YodaCoffeeShop\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csproj.GenerateResource.Cache
+C:\Users\traff\Source\Repos\Yoda-CoffeeShop2\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe.config
+C:\Users\traff\Source\Repos\Yoda-CoffeeShop2\MyCoffeeProject\obj\Debug\MyCoffeeProject.exe
+C:\Users\traff\Source\Repos\Yoda-CoffeeShop2\MyCoffeeProject\obj\Debug\MyCoffeeProject.pdb
+C:\Users\nicholas.brooks\Documents\GitHub\Yoda-CoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe.config
+C:\Users\nicholas.brooks\Documents\GitHub\Yoda-CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.exe
+C:\Users\nicholas.brooks\Documents\GitHub\Yoda-CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.pdb
+C:\Users\nicholas.brooks\Documents\GitHub\Yoda-CoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe
+C:\Users\nicholas.brooks\Documents\GitHub\Yoda-CoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.pdb
+C:\Users\nicholas.brooks\Documents\GitHub\Yoda-CoffeeShop\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\nicholas.brooks\Documents\GitHub\Yoda-CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.YodaCoffeeShop.resources
+C:\Users\nicholas.brooks\Documents\GitHub\Yoda-CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.Properties.Resources.resources
+C:\Users\nicholas.brooks\Documents\GitHub\Yoda-CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.TShirtForm.resources
+C:\Users\nicholas.brooks\Documents\GitHub\Yoda-CoffeeShop\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Trials\Yoda-CoffeeShop-master\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe.config
+F:\Sem.4\C# Projects\Trials\Yoda-CoffeeShop-master\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe
+F:\Sem.4\C# Projects\Trials\Yoda-CoffeeShop-master\MyCoffeeProject\bin\Debug\MyCoffeeProject.pdb
+F:\Sem.4\C# Projects\Trials\Yoda-CoffeeShop-master\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Trials\Yoda-CoffeeShop-master\MyCoffeeProject\obj\Debug\MyCoffeeProject.YodaCoffeeShop.resources
+F:\Sem.4\C# Projects\Trials\Yoda-CoffeeShop-master\MyCoffeeProject\obj\Debug\MyCoffeeProject.Properties.Resources.resources
+F:\Sem.4\C# Projects\Trials\Yoda-CoffeeShop-master\MyCoffeeProject\obj\Debug\MyCoffeeProject.TShirtForm.resources
+F:\Sem.4\C# Projects\Trials\Yoda-CoffeeShop-master\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Trials\Yoda-CoffeeShop-master\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Trials\Yoda-CoffeeShop-master\MyCoffeeProject\obj\Debug\MyCoffeeProject.exe
+F:\Sem.4\C# Projects\Trials\Yoda-CoffeeShop-master\MyCoffeeProject\obj\Debug\MyCoffeeProject.pdb
+F:\Sem.4\C# Projects\Yoda-CoffeeShop-master\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe.config
+F:\Sem.4\C# Projects\Yoda-CoffeeShop-master\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe
+F:\Sem.4\C# Projects\Yoda-CoffeeShop-master\MyCoffeeProject\bin\Debug\MyCoffeeProject.pdb
+F:\Sem.4\C# Projects\Yoda-CoffeeShop-master\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Yoda-CoffeeShop-master\MyCoffeeProject\obj\Debug\MyCoffeeProject.YodaCoffeeShop.resources
+F:\Sem.4\C# Projects\Yoda-CoffeeShop-master\MyCoffeeProject\obj\Debug\MyCoffeeProject.Properties.Resources.resources
+F:\Sem.4\C# Projects\Yoda-CoffeeShop-master\MyCoffeeProject\obj\Debug\MyCoffeeProject.TShirtForm.resources
+F:\Sem.4\C# Projects\Yoda-CoffeeShop-master\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Yoda-CoffeeShop-master\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Yoda-CoffeeShop-master\MyCoffeeProject\obj\Debug\MyCoffeeProject.exe
+F:\Sem.4\C# Projects\Yoda-CoffeeShop-master\MyCoffeeProject\obj\Debug\MyCoffeeProject.pdb
+F:\Code Projects Files\NEWW C Projects 19nov\Coffee Shop C#\CoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe.config
+F:\Code Projects Files\NEWW C Projects 19nov\Coffee Shop C#\CoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe
+F:\Code Projects Files\NEWW C Projects 19nov\Coffee Shop C#\CoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.pdb
+F:\Code Projects Files\NEWW C Projects 19nov\Coffee Shop C#\CoffeeShop\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csprojResolveAssemblyReference.cache
+F:\Code Projects Files\NEWW C Projects 19nov\Coffee Shop C#\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.YodaCoffeeShop.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Coffee Shop C#\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.Properties.Resources.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Coffee Shop C#\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.TShirtForm.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Coffee Shop C#\CoffeeShop\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csproj.GenerateResource.Cache
+F:\Code Projects Files\NEWW C Projects 19nov\Coffee Shop C#\CoffeeShop\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csproj.CoreCompileInputs.cache
+F:\Code Projects Files\NEWW C Projects 19nov\Coffee Shop C#\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.exe
+F:\Code Projects Files\NEWW C Projects 19nov\Coffee Shop C#\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.pdb
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe.config
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.pdb
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.YodaCoffeeShop.resources
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.Properties.Resources.resources
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.TShirtForm.resources
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\YodaCoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.exe
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.pdb

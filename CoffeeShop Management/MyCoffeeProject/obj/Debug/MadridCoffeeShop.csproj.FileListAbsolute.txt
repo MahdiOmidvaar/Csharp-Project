@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe.config
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.pdb
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\MadridCoffeeShop.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\MadridCoffeeShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.MadridCoffeeShop.resources
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.Properties.Resources.resources
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.TShirtForm.resources
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\MadridCoffeeShop.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\MadridCoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.exe
+C:\Users\USER\Desktop\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.pdb

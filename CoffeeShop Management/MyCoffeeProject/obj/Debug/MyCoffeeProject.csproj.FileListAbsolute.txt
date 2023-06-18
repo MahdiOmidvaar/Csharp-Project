@@ -1,0 +1,13 @@
+c:\users\nic92\documents\visual studio 2015\Projects\MyCoffeeProject\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe.config
+c:\users\nic92\documents\visual studio 2015\Projects\MyCoffeeProject\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe
+c:\users\nic92\documents\visual studio 2015\Projects\MyCoffeeProject\MyCoffeeProject\bin\Debug\MyCoffeeProject.pdb
+c:\users\nic92\documents\visual studio 2015\Projects\MyCoffeeProject\MyCoffeeProject\obj\Debug\MyCoffeeProject.csprojResolveAssemblyReference.cache
+c:\users\nic92\documents\visual studio 2015\Projects\MyCoffeeProject\MyCoffeeProject\obj\Debug\MyCoffeeProject.MyCoffeeProject.resources
+c:\users\nic92\documents\visual studio 2015\Projects\MyCoffeeProject\MyCoffeeProject\obj\Debug\MyCoffeeProject.Properties.Resources.resources
+c:\users\nic92\documents\visual studio 2015\Projects\MyCoffeeProject\MyCoffeeProject\obj\Debug\MyCoffeeProject.csproj.GenerateResource.Cache
+c:\users\nic92\documents\visual studio 2015\Projects\MyCoffeeProject\MyCoffeeProject\obj\Debug\MyCoffeeProject.exe
+c:\users\nic92\documents\visual studio 2015\Projects\MyCoffeeProject\MyCoffeeProject\obj\Debug\MyCoffeeProject.pdb
+c:\users\nic92\documents\visual studio 2015\Projects\MyCoffeeProject\MyCoffeeProject\obj\Debug\MyCoffeeProject.TShirtForm.resources
+C:\Users\nic92\Documents\Visual Studio 2015\Projects\YodaCoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe.config
+C:\Users\nic92\Documents\Visual Studio 2015\Projects\YodaCoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.exe
+C:\Users\nic92\Documents\Visual Studio 2015\Projects\YodaCoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.pdb
