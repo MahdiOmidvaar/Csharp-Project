@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\test\calculatorWinForm\calculatorWinForm\bin\Debug\net6.0-windows\calculatorWinForm.exe
+C:\Users\USER\Desktop\test\calculatorWinForm\calculatorWinForm\bin\Debug\net6.0-windows\calculatorWinForm.deps.json
+C:\Users\USER\Desktop\test\calculatorWinForm\calculatorWinForm\bin\Debug\net6.0-windows\calculatorWinForm.runtimeconfig.json
+C:\Users\USER\Desktop\test\calculatorWinForm\calculatorWinForm\bin\Debug\net6.0-windows\calculatorWinForm.dll
+C:\Users\USER\Desktop\test\calculatorWinForm\calculatorWinForm\bin\Debug\net6.0-windows\calculatorWinForm.pdb
+C:\Users\USER\Desktop\test\calculatorWinForm\calculatorWinForm\obj\Debug\net6.0-windows\calculatorWinForm.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\test\calculatorWinForm\calculatorWinForm\obj\Debug\net6.0-windows\calculatorWinForm.Form1.resources
+C:\Users\USER\Desktop\test\calculatorWinForm\calculatorWinForm\obj\Debug\net6.0-windows\calculatorWinForm.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\test\calculatorWinForm\calculatorWinForm\obj\Debug\net6.0-windows\calculatorWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\test\calculatorWinForm\calculatorWinForm\obj\Debug\net6.0-windows\calculatorWinForm.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\test\calculatorWinForm\calculatorWinForm\obj\Debug\net6.0-windows\calculatorWinForm.AssemblyInfo.cs
+C:\Users\USER\Desktop\test\calculatorWinForm\calculatorWinForm\obj\Debug\net6.0-windows\calculatorWinForm.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\test\calculatorWinForm\calculatorWinForm\obj\Debug\net6.0-windows\calculatorWinForm.dll
+C:\Users\USER\Desktop\test\calculatorWinForm\calculatorWinForm\obj\Debug\net6.0-windows\refint\calculatorWinForm.dll
+C:\Users\USER\Desktop\test\calculatorWinForm\calculatorWinForm\obj\Debug\net6.0-windows\calculatorWinForm.pdb
+C:\Users\USER\Desktop\test\calculatorWinForm\calculatorWinForm\obj\Debug\net6.0-windows\calculatorWinForm.genruntimeconfig.cache
+C:\Users\USER\Desktop\test\calculatorWinForm\calculatorWinForm\obj\Debug\net6.0-windows\ref\calculatorWinForm.dll
